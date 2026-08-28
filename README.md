@@ -4,7 +4,7 @@ Algorithm assignment
 
 ## 👥 MEMBER ROLE
 
-- **July:** UX Designer
+- **Elly:** UX Designer
 - **NIN:** Presenter
 - **Seng:** Recorder
 - **Architect Chheang:** Test Captain
