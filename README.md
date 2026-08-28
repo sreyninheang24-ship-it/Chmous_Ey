@@ -8,7 +8,7 @@ Algorithm assignment
 - **NIN:** Presenter
 - **Seng:** Recorder
 - **Architect Chheang:** Test Captain
-
+- **Sokha:** Memory Guardian
 ## ✅ VALID RULE
 
 - ID must be positive and unique.
