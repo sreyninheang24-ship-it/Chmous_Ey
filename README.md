@@ -9,6 +9,7 @@ Algorithm assignment
 - **Seng:** Recorder
 - **Architect Chheang:** Test Captain
 - **Sokha:** Memory Guardian
+
 ## ✅ VALID RULE
 
 - ID must be positive and unique.
@@ -26,3 +27,4 @@ Start with:
 teams = NULL;
 size = 0;
 capacity = 0;
+```
