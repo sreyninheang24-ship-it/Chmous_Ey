@@ -77,12 +77,4 @@
 - Result: PASS
 - Defect exposed: Memory leak or incorrect cleanup.
 
-# Summary
 
-Required tests passed: 11/11
-
-Additional bug found:
-Non-numeric input for Team ID is not handled properly.
-
-Next improvement:
-Add proper input validation for Team ID.
